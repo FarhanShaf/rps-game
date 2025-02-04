@@ -62,9 +62,6 @@ resetGameBtn.style.display = "none";
 optionsContainer.style.display = "block";
 roundResultsMsg.innerHTML = "";
 winnerMsgElement.innerHTML = "";
-
-
-
 };
 
 resetGameBtn.addEventListener("click", resetGame);
